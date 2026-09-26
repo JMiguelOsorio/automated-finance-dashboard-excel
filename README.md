@@ -2,10 +2,13 @@
 Automated finance dashboard in Excel powered by Power Automate. Real-time transaction tracking directly from emails with automated category &amp; summary reports.
 
 
-This project is a fully automated personal finance tracking system.  
+This project is a fully automated personal finance tracking system.
+
+I built this project based on my personal daily-life transactions. I hope it is useful for you!
+
 It combines **Excel**, **Power Automate**, and **financial logic** to create a dynamic dashboard that updates itself every time a new transaction email arrives.
 
-## What this project demonstrates
+## What does this project demonstrate?:
 
 ### 1. Excel Skills
 - Structured tables
@@ -28,7 +31,9 @@ It combines **Excel**, **Power Automate**, and **financial logic** to create a d
 - Savings rate calculation
 - Merchant-based analysis
 
-## How the system works
+## How the system works?
+
+In very simple words and steps:
 
 1. **Outlook receives a transaction email**  
    (CIBC, SCOTIABANK, Interac, ATM, Costco Mastercard, etc.)
