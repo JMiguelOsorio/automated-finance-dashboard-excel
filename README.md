@@ -45,5 +45,4 @@ It combines **Excel**, **Power Automate**, and **financial logic** to create a d
 4. **Excel dashboard updates automatically**  
    Charts, totals, averages, deviations, and savings rate refresh instantly.
 
-See `/docs/architecture.md` for a full breakdown.
 
